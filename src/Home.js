@@ -1,7 +1,6 @@
 import 'antd/dist/reset.css';
 import { Layout, Form, InputNumber, Button } from 'antd';
 import { useState } from 'react';
-import { v4 as uuidv4 } from 'uuid';
 import React from 'react';
 
 const { Header, Content, Footer } = Layout;
