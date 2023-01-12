@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glass-pricer/static/css/main.e5cdda46.css",
+    "main.js": "/glass-pricer/static/js/main.5cc54046.js",
+    "index.html": "/glass-pricer/index.html",
+    "main.e5cdda46.css.map": "/glass-pricer/static/css/main.e5cdda46.css.map",
+    "main.5cc54046.js.map": "/glass-pricer/static/js/main.5cc54046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cdda46.css",
+    "static/js/main.5cc54046.js"
+  ]
+}
